@@ -24,29 +24,3 @@ fold   kin/non-kin   image1   image2
 For KinFaceW-I dataset, file 'fs_pairs.mat' contains 156 positive pairs and 156 negative pairs of images, and there are about 27 positive and 27 negative pairs for each fold (indeed, the fifth fold contains 26 positive and 26 negative pairs). Similar case to other relations.
 
 
-
-
-Terms of Use:
-
-Please adhere to the following terms of use of this dataset. 
-
-This dataset is for non-commercial reseach purposes (such as academic research) only. The images are not allowed to be redistributed (do not pass copies of any part of this collection to others, or post any images on the Internet). 
-
-If you use any part of this image collection in your research, please cite the paper below.
-
-Citation
-Jiwen Lu, Junlin Hu, Xiuzhuang Zhou, Yuanyuan Shang, Yap-Peng Tan and Gang Wang. Neighborhood Repulsed Metric Learning for Kinship Verification, IEEE International Conference on Computer Vision and Pattern Recognition (CVPR'12), 2012.
-
-Bibtex
-@inproceedings{lu2012neighborhood,
-  title={Neighborhood repulsed metric learning for kinship verification},
-  author={Lu, J. and Hu, J. and Zhou, X. and Shang, Y. and Tan, Y.-P. and Wang, G.},
-  booktitle={IEEE International Conference on Computer Vision and Pattern Recognition, 2012},
-  pages={2594--2601},
-  year={2012},
-  organization={IEEE}
-}
-
-Please contact Jiwen Lu at jiwen.lu@adsc.com.sg or elujiwen@gmail.com if there is any problem on using the datasets.
-
-Please inform us about your accuracies on these datasets, so that we may make them publicly available for easy comparison and citation.
